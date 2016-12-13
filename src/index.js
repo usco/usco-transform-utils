@@ -1,3 +1,3 @@
 // transforms
-export {default as offsetTransformsByBounds} from './transforms/offsetTransformsByBounds'
-export {default as computeTMatrixFromTransforms} from './transforms/computeTMatrixFromTransforms'
+export {default as offsetTransformsByBounds} from './offsetTransformsByBounds'
+export {default as computeTMatrixFromTransforms} from './computeTMatrixFromTransforms'

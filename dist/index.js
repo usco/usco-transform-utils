@@ -4,7 +4,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _offsetTransformsByBounds = require('./transforms/offsetTransformsByBounds');
+var _offsetTransformsByBounds = require('./offsetTransformsByBounds');
 
 Object.defineProperty(exports, 'offsetTransformsByBounds', {
   enumerable: true,
@@ -13,7 +13,7 @@ Object.defineProperty(exports, 'offsetTransformsByBounds', {
   }
 });
 
-var _computeTMatrixFromTransforms = require('./transforms/computeTMatrixFromTransforms');
+var _computeTMatrixFromTransforms = require('./computeTMatrixFromTransforms');
 
 Object.defineProperty(exports, 'computeTMatrixFromTransforms', {
   enumerable: true,
